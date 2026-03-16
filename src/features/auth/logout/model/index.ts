@@ -1,0 +1,1 @@
+export { useLogoutModel } from './use-logout-model';
